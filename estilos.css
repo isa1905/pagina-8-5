@@ -22,7 +22,20 @@ body{
     color: rgb(255, 178, 245);
 }
 
-.imagen1[
+.imagen1{
 
+    height: 193px;
+    width: 330px;
+    background-image: url(circuito.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
 
-]
+.imagen2{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(sumapolinomio.jpg);
+    
+   
+}
