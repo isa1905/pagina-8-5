@@ -36,7 +36,7 @@ body{
     height: 300px;
     width: 600px;
     background-image: url(sumapolinomio.jpg);
-    
+    float: left;
 }
 
 .imagen3{
@@ -44,5 +44,26 @@ body{
     height: 300px;
     width: 600px;
     background-image: url(restapolinomio.jpeg);
+    float: right;
+    background-repeat: no-repeat;
     
+}
+
+.imagen4{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(multiplicacion.jpeg);
+    float: left;
+    background-repeat: no-repeat;
+    
+}
+
+.imagen5{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(divisonpolinomio.jpeg);
+    float: right;
+    background-repeat: no-repeat;
 }
