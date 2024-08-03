@@ -53,17 +53,57 @@ body{
 
     height: 300px;
     width: 600px;
-    background-image: url(multiplicacion.jpeg);
+    background-image: url(multiplicacionpolinomio.jpeg);
     float: left;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    
     
 }
 
 .imagen5{
 
-    height: 300px;
+    height: 336px;
     width: 600px;
-    background-image: url(divisonpolinomio.jpeg);
+    background-image: url(divisionpolinomio.jpeg);
     float: right;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+   
+}
+
+.imagen6{
+
+    height: 336px;
+    width: 600px;
+    background-image: url(binomioalcuadrado.jpeg);
+    float: left;
+    background-repeat: repeat-x
+
+}
+
+.imagen7{
+
+    height: 336px;
+    width: 600px;
+    background-image: url(diferenciadecuadrados.jpeg);
+    float: right;
+    background-repeat: repeat-x
+}
+
+.imagen8{
+
+    height: 336px;
+    width: 600px;
+    background-image: url(cubodeunbinomio.jpeg);
+    float: left;
+    background-repeat: repeat-x
+
+}
+
+.imagen9{
+
+    height: 336px;
+    width: 600px;
+    background-image: url(sumaoresta.jpeg);
+    float: right;
+    background-repeat: repeat-x
 }
