@@ -115,3 +115,39 @@ body{
     background-image: url(mapamental.jpg);
     background-repeat: no-repeat
 }
+
+.imagen11{
+
+    height: 445px;
+    width: 600px;
+    background-image: url(sistemareproductor.jpeg);
+    float: right;
+    background-repeat:no-repeat
+}
+
+.imagen12{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(fasefolicular.jpeg);
+    float: left;
+    background-repeat:no-repeat
+}
+
+.imagen13{
+
+    height: 385px;
+    width: 600px;
+    background-image: url(ovulacion.jpeg);
+    float: right;
+    background-repeat:no-repeat
+}
+
+.imagen14{
+
+    height: 315px;
+    width: 665px;
+    background-image: url(faselutea.jpeg);
+    float: left;
+    background-repeat:no-repeat
+}
