@@ -24,9 +24,9 @@ body{
 
 .imagen1{
 
-    height: 193px;
-    width: 330px;
-    background-image: url(circuito.jpeg);
+    height: 300px;
+    width: 600px;
+    background-image: url(circuito.jpg);
     background-repeat: no-repeat;
     float: left;
 }
