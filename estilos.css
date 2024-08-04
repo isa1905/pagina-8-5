@@ -19,7 +19,7 @@ body{
 
     font-size: 50px;
     text-align: center;
-    color: rgb(164, 190, 255);
+    color: rgb(82, 126, 238);
 }
 
 .imagen1{
@@ -181,8 +181,8 @@ body{
 
 .imagen18{
 
-    height: 300px;
-    width: 300px;
+    height: 435px;
+    width: 507px;
     background-image: url(regladepauli.jpeg);
     float:right;
     background-repeat:no-repeat
@@ -197,5 +197,35 @@ body{
     background-repeat:no-repeat
 }
 
+.imagen20{
 
+    height: 300px;
+    width: 600px;
+    background-image: url(circuitoabierto.jpg);
+    background-repeat:no-repeat
+}
+
+.imagen21{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(circuitocerrado.jpg);
+    background-repeat:no-repeat
+}
+
+.imagen22{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(circuitoserie.jpg);
+    background-repeat:no-repeat
+}
+
+.imagen23{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(circuitoparalelo.jpg);
+    background-repeat:no-repeat
+}
 
