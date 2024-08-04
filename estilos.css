@@ -53,7 +53,7 @@ body{
 
     height: 300px;
     width: 600px;
-    background-image: url(multiplicacionpolinomio.jpeg);
+    background-image: url(multiplicacionpolinomio.jpg);
     float: left;
     background-repeat: repeat-x;
     
@@ -64,7 +64,7 @@ body{
 
     height: 336px;
     width: 600px;
-    background-image: url(divisionpolinomio.jpeg);
+    background-image: url(divisionpolinomio.jpg);
     float: right;
     background-repeat: repeat-x;
    
@@ -74,7 +74,7 @@ body{
 
     height: 336px;
     width: 600px;
-    background-image: url(binomioalcuadrado.jpeg);
+    background-image: url(binomioalcuadrado.jpg);
     float: left;
     background-repeat: repeat-x
 
@@ -84,7 +84,7 @@ body{
 
     height: 336px;
     width: 600px;
-    background-image: url(diferenciadecuadrados.jpeg);
+    background-image: url(diferenciadecuadrados.jpg);
     float: right;
     background-repeat: repeat-x
 }
@@ -93,7 +93,7 @@ body{
 
     height: 336px;
     width: 600px;
-    background-image: url(cubodeunbinomio.jpeg);
+    background-image: url(cubodeunbinomio.jpg);
     float: left;
     background-repeat: repeat-x
 
@@ -103,7 +103,7 @@ body{
 
     height: 336px;
     width: 600px;
-    background-image: url(sumaoresta.jpeg);
+    background-image: url(sumaoresta.jpg);
     float: right;
     background-repeat: repeat-x
 }
