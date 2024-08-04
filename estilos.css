@@ -151,3 +151,21 @@ body{
     float: left;
     background-repeat:no-repeat
 }
+
+.imagen15{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(isabella.jpg);
+    float: left;
+    background-repeat:no-repeat
+}
+
+.imagen16{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(kaily.jpg);
+    float: left;
+    background-repeat:no-repeat
+}
