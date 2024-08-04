@@ -169,3 +169,31 @@ body{
     float: left;
     background-repeat:no-repeat
 }
+
+.imagen17{
+
+    height: 454px;
+    width: 500px;
+    background-image: url(distribucionelectronica.jpeg);
+    float: left;
+    background-repeat:no-repeat
+}
+
+.imagen18{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(regladepauli.jpeg);
+    float:right;
+    background-repeat:no-repeat
+}
+
+.imagen19{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(julieta.jpg);
+    float:left;
+    background-repeat:no-repeat
+}
+
