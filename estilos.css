@@ -229,3 +229,10 @@ body{
     background-repeat:no-repeat
 }
 
+.img1{
+
+    height: 300px;
+    width: 600px;
+    background-image:url(exel\ \(1\).jpg) ;
+    background-repeat: no-repeat;
+}
