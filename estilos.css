@@ -236,3 +236,12 @@ body{
     background-image:url(exel\ \(1\).jpg) ;
     background-repeat: no-repeat;
 }
+
+.img2{
+
+    height: 550px;
+    width: 600px;
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+}
+
