@@ -250,7 +250,7 @@ body{
 
     height: 335px;
     width: 600px;
-    background-image: url(producto-notable\ \(1\).png);
+    background-image: url(producto-notable\ \(1\).jpg);
     background-repeat: no-repeat;
     float: left;
 }
@@ -270,5 +270,13 @@ body{
     width: 600px;
     background-image: url(amasb.jpg);
     background-repeat: no-repeat;
-    float: left;
+}
+
+.img6{
+
+    height: 305px;
+    width: 600px;
+    background-image: url(cuadrado-de-la-suma-imagen-\ \(1\).jpg);
+    background-repeat: no-repeat;
+
 }
