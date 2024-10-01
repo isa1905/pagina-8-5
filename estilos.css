@@ -243,5 +243,32 @@ body{
     width: 600px;
     background-image: url(logo.jpg);
     background-repeat: no-repeat;
+    float: left;
 }
 
+.img3{
+
+    height: 335px;
+    width: 600px;
+    background-image: url(producto-notable\ \(1\).png);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img4{
+
+    height: 335px;
+    width: 600px;
+    background-image: url(diferenciacuadrados2.jpg);
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.img5{
+
+    height: 305px;
+    width: 600px;
+    background-image: url(amasb.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
