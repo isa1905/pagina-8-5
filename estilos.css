@@ -270,6 +270,7 @@ body{
     width: 600px;
     background-image: url(amasb.jpg);
     background-repeat: no-repeat;
+    float: left;
 }
 
 .img6{
@@ -278,5 +279,68 @@ body{
     width: 600px;
     background-image: url(cuadrado-de-la-suma-imagen-\ \(1\).jpg);
     background-repeat: no-repeat;
+    
 
+}
+
+.img7{
+
+    height: 305px;
+    width: 600px;
+    background-image: url(restanose\ \(1\).jpg);
+    background-repeat: no-repeat;
+    
+    
+
+}
+
+.img8{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(cubosuma.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    
+    
+}
+
+.img9{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(Factorizacion\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
+.img10{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(facporfac.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+.img11{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(facporagrupacion.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
+.img12{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(diferenciadecuadrados3per.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    
 }
