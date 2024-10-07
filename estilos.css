@@ -344,3 +344,54 @@ body{
     float: left;
     
 }
+
+.img13{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(trinomiocuadradoperf.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
+.img14{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(formax2.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+.img15{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(formaax2\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
+.img16{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(sumacubosperfectos.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+.img17{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(cubosssss\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
