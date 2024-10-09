@@ -396,3 +396,38 @@ body{
     
 }
 
+.img18{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(enlace\ ionico.jpg);
+    background-repeat: no-repeat;
+   
+    
+}
+
+.img19{
+
+    height: 345px;
+    width: 600px;
+    background-image: url(enlacecovalente.jpg);
+    background-repeat: no-repeat;
+    
+    
+}.img20{
+
+    height: 457px;
+    width: 600px;
+    background-image: url(enlacemetalico\ \(1\).jpg);
+    background-repeat: no-repeat;
+    
+    
+}.img21{
+
+    height: 355px;
+    width: 600px;
+    background-image: url(enlacehidrogeno.jpg);
+    background-repeat: no-repeat;
+   
+    
+}
