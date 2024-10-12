@@ -422,11 +422,22 @@ body{
     background-repeat: no-repeat;
     
     
-}.img21{
+}
+.img21{
 
     height: 355px;
     width: 600px;
     background-image: url(enlacehidrogeno.jpg);
+    background-repeat: no-repeat;
+   
+    
+}
+
+.img22{
+
+    height: 600px;
+    width: 900px;
+    background-image: url(mapamentalquimica.jpg);
     background-repeat: no-repeat;
    
     
