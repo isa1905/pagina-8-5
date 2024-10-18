@@ -442,3 +442,82 @@ body{
    
     
 }
+
+.img23{
+
+    height: 567px;
+    width: 600px;
+    background-image: url(1biologia.jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img24{
+
+    height: 500px;
+    width: 600px;
+    background-image: url(2biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+
+}
+
+.img25{
+
+    height: 300px;
+    width: 600px;
+    background-image: url(3biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img26{
+
+    height: 500px;
+    width: 600px;
+    background-image: url(4biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+
+}
+
+.img27{
+
+    height: 350px;
+    width: 600px;
+    background-image: url(5biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img28{
+
+    height: 420px;
+    width: 600px;
+    background-image: url(6biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: right;
+
+}
+
+.img29{
+
+    height: 455px;
+    width: 600px;
+    background-image: url(7biologia\ \(1\).jpg);
+    background-repeat: no-repeat;
+    float: left;
+
+}
+
+.img30{
+
+    height: 788px;
+    width: 1000px;
+    background-image: url(mapasociales.jpg);
+    background-repeat: no-repeat;
+    
+}
